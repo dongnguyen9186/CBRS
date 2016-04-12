@@ -1,4 +1,4 @@
-# Angular 2 QuickStart Source
+# CNBR
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
@@ -56,3 +56,6 @@ Remember the npm scripts in `package.json`:
 with excellent support for Angular apps that use routing.
 * `npm run typings` - runs the typings tool.
 * `npm run postinstall` - called by *npm* automatically *after* it successfully completes package installation. This script installs the TypeScript definition files this app requires.
+=======
+# CBRS
+
